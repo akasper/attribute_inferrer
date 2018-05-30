@@ -1,0 +1,2 @@
+attribute_inferrer is a drop-in module that provides a weighted algorithm DSL. It is designed for the case where a
+canonical document must be assembled piecemeal from a number of different, conflicting data sources.
